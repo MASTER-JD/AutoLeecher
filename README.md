@@ -4,6 +4,8 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ## installing
 
+JOIN TELEGRAM  [Jacksparrow063](https://t.me/Jacksparrow063)
+
 ### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
